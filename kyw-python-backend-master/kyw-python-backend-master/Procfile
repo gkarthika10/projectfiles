@@ -1,0 +1,1 @@
+web: gunicorn kyw_api_project.wsgi --log-file -
